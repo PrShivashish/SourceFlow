@@ -610,7 +610,7 @@ Build Size:           ~150KB gzipped
 
 ## 💬 Credits
 
-**Developer**: [Shivashsih Prusty](https://github.com/PrShivashish)  
+**Developer**: [Shivashish Prusty](https://github.com/PrShivashish)  
 **Analysis & Architecture**: Shivashish
 **Built with**: React, TypeScript, Vite, Tailwind CSS  
 
