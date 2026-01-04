@@ -158,8 +158,8 @@ Results Restored Instantly
 **Option 1: Manual Installation**
 ```bash
 # Clone repository
-git clone https://github.com/Manoj-Murari/Context-Crafter.git
-cd Context-Crafter
+git clone git remote add origin https://github.com/PrShivashish/SourceFlow.git
+cd SourceFlow
 
 # Install dependencies
 npm install
