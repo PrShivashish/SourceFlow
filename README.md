@@ -507,23 +507,6 @@ With Protocol:
   → Analysis complete and accurate
 ```
 
----
-
-## 📚 Documentation
-
-Complete analysis and architectural documentation available:
-
-| Document | Purpose |
-|----------|---------|
-| **source-flow-system-log.md** | Complete architecture overview |
-| **technical-deep-dive.md** | Processing pipeline deep dive |
-| **source-flow-refactor-roadmap.md** | 3 critical refactors with implementation |
-| **source-flow-final-certification.md** | Mastery validation & technical proof |
-| **sourceflow-setup-guide.md** | Local development setup |
-| **sourceflow-terminal-commands.md** | Command reference |
-
----
-
 ## 🎯 Recommended Improvements
 
 ### Refactor #1: Eliminate Code Duplication (DRY)
@@ -627,17 +610,17 @@ Build Size:           ~150KB gzipped
 
 ## 💬 Credits
 
-**Developer**: [Manoj Murari](https://github.com/Manoj-Murari)  
-**Analysis & Architecture**: AI Architect (January 4, 2026)  
+**Developer**: [Shivashsih Prusty](https://github.com/PrShivashish)  
+**Analysis & Architecture**: Shivashish
 **Built with**: React, TypeScript, Vite, Tailwind CSS  
 
 ---
 
 ## 📞 Contact
 
-- **GitHub**: [@Manoj-Murari](https://github.com/Manoj-Murari)
-- **Repository**: [Context-Crafter](https://github.com/Manoj-Murari/Context-Crafter)
-- **Issues**: [GitHub Issues](https://github.com/Manoj-Murari/Context-Crafter/issues)
+- **GitHub**: [@PrShivashish](https://github.com/PrShivashish)
+- **Repository**: [SourceFlow](https://github.com/PrShivashish/SourceFlow)
+- **Issues**: [GitHub Issues](https://github.com/PrShivashish/SourceFlow/issues)
 
 ---
 
